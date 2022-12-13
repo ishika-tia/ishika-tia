@@ -1,5 +1,6 @@
 
-<h1> Hey👋 This is Ishika Banerjee </h1>
+<h1 align="center">Hi 👋, I'm Ishika Banerjee</h1>  
+<h3 align="center">An enthusiastic learner</h3>  
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ishika-tia&left_color=e63946&right_color=purple)
 
@@ -22,6 +23,6 @@
 
 </br>
 
-## 💹 Contribution Graph 
-
-<img src="https://activity-graph.herokuapp.com/graph?username=ishika-tia&bg_color=171717&color=FFFFFF&line=AFAFAF&point=2144C8"></div>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishika-tia&show_icons=true&locale=en&layout=compact&theme=purple" alt="ishika-tia" /></p>  
+ 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishika-tia&show_icons=true&locale=en&theme=purple" alt="ishika-tia" /></p>
