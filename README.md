@@ -10,9 +10,10 @@
 
 ## 👩‍💼 About Me
   I am currently pursuing Computer Science and Engineering from Indian Institute of Technology (BHU), Varanasi.
-- 💻 I’m currently learning Competitive Programming and DSA.</br>
-- 💡 I’m currently working on learning new technologies and improving existing ones.</br>
-- ✨ I’m looking to collaborate on interesting projects.</br>
+- 💻 I’m currently learning Competitive Programming and DSA</br>
+- 💡 I’m currently working on learning new technologies and improving existing ones</br>
+- ✨ I’m looking to collaborate on exciting projects</br>
+- 📧 Reach me at ishika.banerjee.cd.cse21@iitbhu.ac.in</br>
 
 
 ## 📊 Github Stats
