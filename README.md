@@ -22,7 +22,3 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishika-tia&theme=dark" alt="ishika-tia" />
 
 </br>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishika-tia&show_icons=true&locale=en&layout=compact&theme=purple" alt="ishika-tia" /></p>  
- 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishika-tia&show_icons=true&locale=en&theme=purple" alt="ishika-tia" /></p>
