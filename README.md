@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishika Banerjee</h1>
 <h3 align="center">An enthusiastic learner</h3>
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ishika-tia&left_color=e63946&right_color=purple" alt="Visitors Badge">
-</p>
-
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=purple&size=20&lines=Good+to+see+you+here!;Welcome+to+my+profile" alt="Typing SVG">
