@@ -1,10 +1,8 @@
 ![Header GIF](header.gif)
-<h2 align="center">An enthusiastic learner from IIT BHU 🚀</h2>
+<h3 align="center">A computer science student and enthusiast from IIT BHU 🖥️</h2>
 
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=green&size=20&lines=Good+to+see+you+here!;Welcome+to+my+profile" alt="Typing SVG">
-  </a>
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0FB807&center=true&width=435&lines=Welcome+to+my+profile!;Good+to+see+you+here!" alt="Typing SVG" /></a>
 </p>
 
 ## 👩‍💼 About Me
