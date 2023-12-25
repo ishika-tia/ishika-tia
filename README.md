@@ -26,7 +26,7 @@ An innovative Spring Boot web application with a robust DBMS backbone, streamlin
 
 - 🌾 [Drone for Agriculture: Challenges and Opportunities](https://github.com/ishika-tia/Drone-Writeup): It is a magazine write-up in IEEE format that describes the use of drones in agriculture and further explores its challenges and opportunities backed by a significant amount of research.
 
-- 😷 [Face Mask Detection Using Machine Learning](https://github.com/ishika-tia/Face-Mask-Detection): A cutting-edge machine learning project that enhances public safety by deploying real-time face mask detection in images and video streams, contributing to health guidelines compliance during the ongoing COVID-19 pandemic.
+- 😷 [Face Mask Detection Using Machine Learning](https://github.com/ishika-tia/Face-Mask-Detection): A cutting-edge machine learning project that enhances public safety by deploying real-time face mask detection, contributing to health guidelines compliance during the ongoing COVID-19 pandemic.
 
 ## 📊 GitHub Stats
 <p align="center">
