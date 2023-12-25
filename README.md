@@ -1,5 +1,5 @@
 ![Header GIF](header.gif)
-<h3 align="center">A computer science student and enthusiast from IIT BHU 🖥️</h2>
+<h3 align="center">A computer science student and enthusiast from IIT BHU 🖥️</h3>
 
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=300&color=0FB807&center=true&width=435&lines=Where+bytes+bloom...;I+welcome+you!" alt="Typing SVG" /></a>
