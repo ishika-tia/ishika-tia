@@ -15,8 +15,7 @@ I am currently pursuing Computer Science and Engineering from the Indian Institu
 
 ## Projects
 
-- 🍲 [Efficient Food Distribution System](https://github.com/ishika-tia/dbms_project):
-An innovative Spring Boot web application with a robust DBMS backbone, streamlining food distribution by optimizing inventory, supplier communication, and delivery logistics for maximum efficiency.
+- 🍲 [Efficient Food Distribution System](https://github.com/ishika-tia/dbms_project): An innovative Spring Boot web application with a robust DBMS backbone, streamlining food distribution by optimizing inventory, supplier communication, and delivery logistics for maximum efficiency.
 
 - 📔 [Kids Magazine iOS Application](https://github.com/cse-iitbhu/iOS-Kids-Magazine): Kids Magazine is an iOS app that contains short stories designed for children, aiming to assist them in learning to read in their native languages. The app incorporates a firebase-linked database, offers transliteration, audio narration, and dynamic text highlighting features.
 
