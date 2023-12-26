@@ -1,4 +1,4 @@
-<img src="Header.gif" alt="Header GIF" width="1200" height="360">
+![Header GIF](HeaderCool.gif)
 <h3 align="center">A computer science student and enthusiast from IIT BHU 🖥️</h3>
 
 <p align="center">
